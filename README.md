@@ -10,3 +10,8 @@ Under construction: Density plot, standard deviation, histogram analysis of proj
 that will aggregate pitching, hitting, and injury information to determine player viability
 
 The risk analysis tool (under construction), will take data from pitch/fx, which contains heat map data for locations and averages of batter swing rate and locations of pitches thrown for pitchers. The idea is to identify correlations or trends in this heat map data to identify how likely a batter is to swing, get a hit, etc. The risk management portion of this will identify long-run player performance and determine whether fundamental hitting skills are improving/declining.
+
+
+Instructions:
+1) Source all files in directory to load appropriate data, load the RData file
+2) runApp()
