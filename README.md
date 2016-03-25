@@ -16,3 +16,5 @@ Instructions:
 1) Source all files in directory to load appropriate data, load the RData file
 2) runApp()
 
+![alt tag](https://github.com/brandonliu/FantasyBaseballProjections/blob/master/Screen%20Shot%202016-03-25%20at%204.50.05%20PM.png)
+
